@@ -1,0 +1,7 @@
+# Build/run artefacts and bounty research — never part of the entry.
+kit/
+output/
+__pycache__/
+competition.json
+requirements.json
+rules.txt
